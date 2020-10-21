@@ -4,6 +4,7 @@
 Created on Thu Sep 12 16:26:16 2019
 
 @author: omar.elfarouk
+credits to Mr Juilan the developer of pymoo software
 """
 # from pyomo.environ import *
 from pymoo.algorithms.nsga2 import NSGA2
